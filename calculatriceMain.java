@@ -1,4 +1,5 @@
-import calculatrice;
+package Calc;
+import Calc.calculatrice;
 
 /**
  * @author leenz

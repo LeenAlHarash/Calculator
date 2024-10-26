@@ -1,9 +1,6 @@
-package ExamFinal;
-
-import ExamFinal.calculatrice;
+import calculatrice;
 
 /**
- *
  * @author leenz
  */
 public class calculatriceMain {
@@ -15,6 +12,5 @@ public class calculatriceMain {
         calculatrice calcul = new calculatrice();
         
         calcul.setVisible(true);
-    }
-    
+    }   
 }

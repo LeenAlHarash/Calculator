@@ -5,6 +5,12 @@ Addition, Substraction, Multiplication, Division! What can't a calculator do?
 - Download both classes
 - Run calculatriceMain.java
 
+# Built with
+- Java
+
+# RoadMap
+- Updating the visual
+
 # Authors
 Leen Al Harash
 

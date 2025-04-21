@@ -1,18 +1,16 @@
-# Calculator
-Addition, Substraction, Multiplication, Division! What can't a calculator do?
+# Calculator 🧮
+Addition, Subtraction, Multiplication, Division — what can't a calculator do?
+Built with clarity and simplicity in mind, it’s perfect for beginners learning Java or anyone who needs a lightweight calculator for everyday use.
 
-# Usage
+## Usage
 - Download both classes
-- Run calculatriceMain.java
+- Run `CalculatriceMain`
 
-# Built with
+## Built with
 - Java
 
-# RoadMap
-- Updating the visual
-
 # Authors
-Leen Al Harash
+- Leen Al Harash
 
 # License
-[MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](https://choosealicense.com/licenses/mit/)
